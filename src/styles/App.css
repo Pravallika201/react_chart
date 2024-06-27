@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+  }
+  
+  .chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  button {
+    margin: 10px;
+  }
+  
+  .tooltip {
+    position: absolute;
+    background: white;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
